@@ -1,8 +1,38 @@
-# React + Vite
+🏡 Estate – Real Estate Website
+Estate is a modern, fully responsive real estate website built with React.js and Tailwind CSS. It features smooth animations, dynamic property listings, and an intuitive UI for users to explore properties seamlessly.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Interactive and user-friendly UI
+✅ Smooth animations for better user experience
+✅ Fully responsive design
+✅ Filter and search functionality for properties
+✅ Modern UI built with React.js and Tailwind CSS
 
-Currently, two official plugins are available:
+🛠️ Technologies Used
+React.js – Component-based UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tailwind CSS – For styling
+
+Vite – Fast development server
+
+React Router – For seamless navigation
+
+📦 Installation
+Follow these steps to run the project locally:
+
+git clone https://github.com/Tahir-Malkan21/Estate.git  
+cd Estate  
+npm install  
+
+
+🚀 Running the Project
+Start the development server:
+
+npm run dev  
+The project will be available at: http://localhost:5173 
+
+📩 Contact
+For any inquiries, feel free to reach out:
+
+📧 Email: Tahir.Malkan@gmail.com
+🔗 GitHub: Tahir-Malkan
